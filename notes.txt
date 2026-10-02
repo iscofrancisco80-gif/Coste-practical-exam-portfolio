@@ -1,0 +1,20 @@
+what is Backend development
+Backend development is the server-side work that powers web applications, including server logic,
+ databases, APIs, authentication, and performance optimization, using languages like Python, Java, PHP, and Node.js.
+
+
+. Give 2 examples of backend frameworks.
+  Django (Python): This is a high-level Python framework known for its "batteries-included" 
+ philosophy. It comes with pre-built tools for things like database management, user authentication, and
+  security right out of the box, making it great for rapid development.
+
+• Express.js (JavaScript/Node.js): This is a minimal and flexible framework designed fo
+r Node.js. It is highly popular because it allows developers to use JavaScript for both 
+the frontend and backend, making it ideal for building fast APIs and real-time applications
+
+what is an API?
+n API (Application Programming Interface) is a set of defined rules that allows different software applications
+ to communicate and exchange data with one another.
+Think of it as a virtual middleman or messenger. Instead of one program needing to
+ understand the messy, internal code of another program, it uses the API to cleanly ask for information 
+ or trigger a specific action.
